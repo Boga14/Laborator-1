@@ -32,7 +32,7 @@ if name == "__main__":
     carte1 = Carte("Dictionar Roman-englez", "Emimem", "069522411")
     carte2 = Carte("Bank Robery", "Franklin Clinton", "0893215")
     carte3 = Carte("World War 2", "Hitler", "02343583")
-    carte4 = Carte("Ciocana U", "Dorin Ghimpu", "0699225")
+    carte4 = Carte("Ciocana AUE", "Dorin Ghimpu", "0699225")
     
 
     biblioteca.adauga_carte(carte1)
